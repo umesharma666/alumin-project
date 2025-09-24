@@ -1,0 +1,24 @@
+{
+  "name": "alumin3",
+  "version": "1.0.0",
+  "description": "alumni management and engagement platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umesharma666/alumin-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umesharma666/alumin-project/issues"
+  },
+  "homepage": "https://github.com/umesharma666/alumin-project#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  }
+}
